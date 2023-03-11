@@ -29,13 +29,12 @@ body {
     
 }
 
-.card h2 {
+.card h1 {
     color: hsl(218, 44%, 22%);
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
     margin: 1rem 0;
     width: 80%;
-    
 }
 
 .card p {
